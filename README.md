@@ -44,11 +44,11 @@ A retro arcade-style Tic-Tac-Toe game powered by Q-Learning reinforcement learni
 ### Game Interface
 ```
 ┌─────────────────────────────────┐
-│     Tic-Tac-Toe RL             │
+│     Tic-Tac-Toe RL             v│
 │                                 │
-│   [X] [ ] [O]                  │
-│   [ ] [O] [ ]                  │
-│   [ ] [ ] [X]                  │
+│   [X] [ ] [O]                   │
+│   [ ] [O] [ ]                   │
+│   [ ] [ ] [X]                   │
 │                                 │
 │  Difficulty: Medium             │
 │  Your turn! (X)                 │
